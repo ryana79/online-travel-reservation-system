@@ -1,0 +1,3 @@
+Main-Class: ProjectFrame
+Class-Path: mysql-connector-j.jar
+

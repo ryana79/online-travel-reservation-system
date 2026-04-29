@@ -1,0 +1,37 @@
+Project Checklist - Online Travel Reservation System
+
+[x] Database schema implemented in MySQL.
+[x] Tables include airlines, aircraft, airports, flights, customers, employees, tickets, ticket-flight legs, and waiting lists.
+[x] Primary keys, foreign keys, unique constraints, check constraints, and indexes are included.
+[x] Seed data is included for demo users, flights, reservations, and waiting lists.
+[x] Customer login is implemented.
+[x] Customer account creation is implemented.
+[x] Customer flight search is implemented by departure and arrival airport.
+[x] Customer reservation creation is implemented.
+[x] Customer reservation viewing is implemented.
+[x] Customer reservation cancellation is implemented.
+[x] Customer waiting list join and removal are implemented.
+[x] Customer question browsing and keyword search are implemented.
+[x] Customer question posting is implemented.
+[x] Customer representative login is implemented.
+[x] Customer representative flight management is implemented.
+[x] Customer representative airport management is implemented.
+[x] Customer representative aircraft management is implemented.
+[x] Customer representative customer management is implemented.
+[x] Customer representative reservation lookup/cancellation is implemented.
+[x] Customer representative waiting list viewing is implemented.
+[x] Customer representative Q&A replies are implemented.
+[x] Admin login is implemented.
+[x] Admin employee management is implemented.
+[x] Admin customer management is implemented.
+[x] Admin reservation listing by flight/customer is implemented.
+[x] Admin sales report by month is implemented.
+[x] Admin revenue report by flight is implemented.
+[x] Admin revenue report by customer is implemented.
+[x] Admin best customer report is implemented.
+[x] Admin most active flight report is implemented.
+[x] README includes admin and customer representative credentials.
+[x] ER diagram is included.
+[x] Project SQL export is included as project.sql.
+
+Note: This text checklist mirrors the implementation status. If your course requires the original ProjectChecklistSp26.pdf, transfer these check marks into that PDF before submission.

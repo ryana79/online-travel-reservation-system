@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.log
+.DS_Store
+
+# Local database connector jars should be downloaded separately.
+mysql-connector-j-*.jar
+mysql-connector-j.jar
+projectCode.zip
+
+# IDE/local machine files.
+.idea/
+.vscode/

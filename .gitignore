@@ -1,13 +1,17 @@
 *.class
-*.jar
 *.log
 .DS_Store
 
 # Local database connector jars should be downloaded separately.
 mysql-connector-j-*.jar
 mysql-connector-j.jar
+
+# Working zip used during development; final submission lives in Submission/.
 projectCode.zip
 
 # IDE/local machine files.
 .idea/
 .vscode/
+
+# Local virtualenv if Python helpers are run.
+.venv/

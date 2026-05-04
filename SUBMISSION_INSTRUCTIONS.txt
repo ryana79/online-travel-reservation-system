@@ -1,0 +1,33 @@
+Final Submission - Group 1
+
+Where everything lives:
+- Submission/ folder contains the final, renamed files ready to upload to Canvas.
+- DEMO_VIDEO_INSTRUCTIONS.md is the shot list for re-recording the demo so it covers every checklist item.
+
+What to upload (one team member uploads under their name):
+1. Submission/Group-1-projectCode.zip
+2. Submission/Group-1-project.jar
+3. Submission/Group-1-project.sql
+4. Submission/Group-1-ER_Diagram.pdf
+5. Submission/Group-1-ProjectChecklist.pdf
+6. Submission/Group-1-README.txt
+7. Group-1-Demo.mp4  <-- copy your re-recorded demo into Submission/ with this exact name
+
+Notes about the demo video:
+- The original 13MB demo predates the round-trip search, flexible dates, sort/filter,
+  past vs upcoming reservations, business/first cancel restriction, waitlist alert,
+  rep "Book on Behalf", rep edit reservation, flights-by-airport panel,
+  admin month input, revenue-by-airline, and reservation filter features.
+- A re-recorded video showing the new features is required to claim full credit
+  on those checklist items.
+- 13MB-30MB MP4 fits well under the Canvas file-size limit; you do not need YouTube.
+
+Verification before uploading:
+- Run the new project.jar (with mysql-connector-j.jar in the same folder and
+  project.sql imported) to confirm everything works.
+- Confirm the Submission/ folder contains exactly 7 files (6 deliverables plus the
+  re-recorded demo).
+- Confirm every filename starts with "Group-1-".
+
+Project Contribution Form: only required if a team member contributed substantially
+less than the others. Otherwise no action needed.
